@@ -5,7 +5,7 @@
 
 - 👦 Tenho 21 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
-- 💻 Aprendendo as linguagens ```HTML```, ```CSS``` e ```JAVASCRIPT```!
+- 💻 Aprendendo atualmente: ```REACT```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 
