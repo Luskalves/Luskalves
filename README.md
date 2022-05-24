@@ -5,7 +5,7 @@
 
 - 👦 Tenho 21 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
-- 💻 Aprendendo atualmente: ```REACT```!
+- 💻 Aprendendo atualmente: ```Bancos de dados Mysql```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 
@@ -20,6 +20,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luskalves&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+ ### Tecnologias que utilizo:
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
