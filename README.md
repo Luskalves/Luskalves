@@ -5,7 +5,7 @@
 
 - 👦 Tenho 21 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
-- 💻 Aprendendo atualmente: ```Node JS```!
+- 💻 Aprendendo atualmente: ```Node JS e HTTP com Node```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 
