@@ -25,7 +25,7 @@
  
 <div style="display: inline_block"><br>
  <div>
-  <span> Html, Javascript, Express, Sequelize, Reactm React Hooks, Node.js, Docker, Git/Github, Typescript, Tailwind, Heroku, SQL, MySQL  </span>
+  <span> Html, Javascript, Express, Sequelize, React, React Hooks, Node.js, Docker, Git/Github, Typescript, Tailwind, Heroku, SQL, MySQL  </span>
  </div>
  
  <br>
