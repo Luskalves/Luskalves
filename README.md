@@ -8,6 +8,7 @@
 - 💻 Aprendendo atualmente: ```POO em TypeScript```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
+- 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End Junior 
 
 ### Faculdade 
 
@@ -23,7 +24,11 @@
  ### Tecnologias que utilizo:
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <div>
+  <span> Html, Javascript, Sequelize, Reactm React Hooks, Node.js, Docker, Git/Github </span>
+ </div>
+ <div>
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,12 +43,8 @@
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-  <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" >
-          
-          
-          
-          
-          
+  <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" > 
+ </div>
 </div>
   
   ##
