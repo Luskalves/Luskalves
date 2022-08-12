@@ -8,7 +8,7 @@
 - 💻 Aprendendo atualmente: ```POO em TypeScript```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
-- 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End Junior 
+- 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Junior Back-End 
 
 ### Faculdade 
 
