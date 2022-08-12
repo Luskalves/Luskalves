@@ -27,6 +27,9 @@
  <div>
   <span> Html, Javascript, Express, Sequelize, Reactm React Hooks, Node.js, Docker, Git/Github, Typescript, Tailwind, Heroku, SQL, MySQL  </span>
  </div>
+ 
+ <br>
+ 
  <div>
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
