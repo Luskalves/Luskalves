@@ -5,7 +5,7 @@
 
 - 👦 Tenho 21 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
-- 💻 Aprendendo atualmente: ```POO em TypeScript```!
+- 💻 Aprendendo atualmente: ```MongoDB```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 - 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Junior Back-End 
