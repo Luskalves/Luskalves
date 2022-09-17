@@ -5,7 +5,7 @@
 
 - 👦 Tenho 21 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
-- 💻 Estudando atualmente: ```Aprofundando meus conhecimentos em Typescript e aprendendo MongoDB```!
+- 💻 Estudando atualmente: ```Aprofundando meus conhecimentos em Typescript```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 - 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End 
@@ -25,7 +25,7 @@
  
 <div style="display: inline_block"><br>
  <div>
-  <span> Html, Javascript, Express, Sequelize, React, React Hooks, Node.js, Docker, Git/Github, Typescript, Tailwind, Heroku, SQL, MySQL  </span>
+  <span> Javascript, Typescript, Node, Express, Docker, SQL, MySQL, MongoDB, Mongoose, Sequelize, React, React Hooks, Node.js, Tailwind,  </span>
  </div>
  
  <br>
