@@ -9,11 +9,10 @@
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 - 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End 
-
 ### Faculdade 
 
-- Formado em Análise e Desenvolvimento de Sistemas pela Unama (2019 - 2021)
 
+- Formado em Análise e Desenvolvimento de Sistemas pela Unama (2019 - 2021)
 
 <div align="center">
   <a href="https://github.com/Luskalves">
@@ -62,3 +61,5 @@
   <a href="https://www.linkedin.com/in/lucasalves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
   </div>
+  
+   <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=luskalves"/>
