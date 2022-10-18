@@ -5,7 +5,7 @@
 
 - 👦 Tenho 21 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
-- 💻 Estudando atualmente: ```Aprofundando meus conhecimentos em Typescript```!
+- 💻 Estudando atualmente: ```Aprendendo Python e C#```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
 - 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End 
