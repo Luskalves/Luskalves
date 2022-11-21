@@ -3,7 +3,7 @@
  Oi eu sou o Lucas e esses são alguns fatos sobre mim:
 
 
-- 👦 Tenho 21 anos
+- 👦 Tenho 22 anos
 - 📖 Atualmente estou estudando Desenvolvimento Web na Trybe!
 - 💻 Estudando atualmente: ```Aprendendo Python e C#```!
 - 📧 Email para contato: lusca.alves32@gmail.com
