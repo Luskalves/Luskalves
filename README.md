@@ -8,7 +8,7 @@
 - 💻 Estudando atualmente: ```Aprofundando conhcimentos em .Net```!
 - 📧 Email para contato: lusca.alves32@gmail.com
 - ♂️ Pronomes: Ele/Dele
-- 💼 Trabalho: Sou um estudante de Desenvolvimento web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End 
+- 💼 Trabalho: Sou um Desenvolvedor Web Fullstack, mas estou com foco em encontrar um emprego para trabalhar como Dev Back-End 
 ### Faculdade 
 
 
