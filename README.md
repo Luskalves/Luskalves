@@ -24,7 +24,7 @@
  
 <div style="display: inline_block"><br>
  <div>
-  <span> Javascript, Typescript, Node, Express, Docker, SQL, MySQL, MongoDB, Mongoose, Sequelize, React, React Hooks, Node.js, Tailwind,  </span>
+  <span> Javascript, Typescript, Node.js, C#, .Net, Python, Docker, SQL, MySQL, MongoDB, Mongoose, SqlServer, React, Tailwind,  </span>
  </div>
  
  <br>
